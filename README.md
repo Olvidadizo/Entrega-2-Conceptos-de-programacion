@@ -1,1 +1,2 @@
-# Entrega-1
+# Proyecto
+Las etapas del proyecto estan separadas en diferentes carpetas. 
